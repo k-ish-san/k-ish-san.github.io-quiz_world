@@ -1,0 +1,30 @@
+What does HTML stand for?
+A. Hyper Text Markup Language
+B. High Tech Markup Language
+C. Hyperlinks and Text Markup Language
+D. Home Tool Markup Language
+A
+Which tag is used to define an unordered list in HTML?
+A. <ul>
+B. <ol>
+C. <li>
+D. <div>
+A
+What is the correct HTML tag for inserting an image?
+A. <img src="image.jpg" alt="My Image">
+B. <image src="image.jpg" alt="My Image">
+C. <picture src="image.jpg" alt="My Image">
+D. <img alt="My Image">image.jpg</img>
+A
+Which HTML tag is used to create a hyperlink?
+A. <a>
+B. <link>
+C. <href>
+D. <hyperlink>
+A
+What is the purpose of the <div> tag in HTML?
+A. It defines a division or section in an HTML document.
+B. It creates a hyperlink to another web page.
+C. It displays an image on the webpage.
+D. It defines an ordered list.
+A

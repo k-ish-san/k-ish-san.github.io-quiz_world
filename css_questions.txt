@@ -1,0 +1,30 @@
+What does CSS stand for?
+A. Creative Style Sheets
+B. Computer Style Sheets
+C. Cascading Style Sheets
+D. Colorful Style Sheets
+C
+Which CSS property is used to change the text color?
+A. font-color
+B. color
+C. text-color
+D. background-color
+B
+How do you apply an external CSS file to an HTML document?
+A. Using the <style> tag
+B. Using the <link> tag
+C. Using the <script> tag
+D. Using the <div> tag
+B
+Which CSS property is used to control the spacing between elements?
+A. margin
+B. padding
+C. border
+D. display
+A
+Which selector is used to target elements with a specific class in CSS?
+A. #
+B. .
+C. :
+D. ,
+B

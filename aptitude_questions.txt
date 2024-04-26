@@ -1,0 +1,30 @@
+What is 30% of 150?
+A. 45
+B. 50
+C. 60
+D. 75
+C
+If a car travels 120 km in 2 hours, what is its speed?
+A. 50 km/h
+B. 60 km/h
+C. 70 km/h
+D. 80 km/h
+B
+A train 100 meters long crosses a platform 300 meters long in 20 seconds. What is the speed of the train in km/hr?
+A. 54 km/hr
+B. 72 km/hr
+C. 90 km/hr
+D. 108 km/hr
+D
+Simplify: (5^2 - 4^2) / (5 + 4)
+A. 1
+B. 2
+C. 3
+D. 4
+A
+The average of five consecutive even numbers is 24. What is the largest of these numbers?
+A. 46
+B. 48
+C. 50
+D. 52
+B

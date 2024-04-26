@@ -1,0 +1,32 @@
+Which keyword is used to declare a variable in JavaScript?
+A. var
+B. let
+C. const
+D. All of the above
+D
+What is the correct way to write a comment in JavaScript?
+A. // This is a comment
+B. <!-- This is a comment -->
+C. /* This is a comment */
+D. ** This is a comment **
+A
+What will the following code output?
+```javascript
+console.log(2 + 3 + "7");
+A. 57
+B. 12
+C. 237
+D. 23
+D
+Which method is used to add a new element to the end of an array in JavaScript?
+A. push()
+B. pop()
+C. shift()
+D. unshift()
+A
+What does the typeof operator return for null in JavaScript?
+A. "object"
+B. "null"
+C. "undefined"
+D. "number"
+A
